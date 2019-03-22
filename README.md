@@ -1,9 +1,8 @@
 # T2microdata
 
 
-Download with Library: will be updated soon!! 
-SQL File: will be updated soon!!
-
+Download with Library: will be updated soon!!
+Download SQL File: will be updated soon!!
 
 
 
