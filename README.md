@@ -1,7 +1,10 @@
 # T2microdata
 
 
-Download with library:
+Download with Library: will be updated soon
+SQL File: will be updated soon
+
+
 
 
 #Changelog 22-March-2019:
