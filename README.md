@@ -34,4 +34,4 @@ Management Window:
 - Add/Delete/Update/Reset button is improved that caused wrong size of buttons with JPanel
 - List Table is improved
 - Added current date & time
-- Fixed query menus
+- Fixed query menus.
